@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 <!--
+Image should be at least 900px wide (max on a 4k monitor)
+
 **jorenvo/jorenvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
