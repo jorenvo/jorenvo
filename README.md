@@ -1,4 +1,4 @@
-![An image](https://github.com/jorenvo/jorenvo/raw/master/landscape%20scaled.png)
+<!-- ![An image](https://github.com/jorenvo/jorenvo/raw/master/landscape%20scaled.png) -->
 
 ### Hi there 👋
 
