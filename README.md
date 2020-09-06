@@ -1,8 +1,8 @@
-<!-- ![An image](https://github.com/jorenvo/jorenvo/raw/master/landscape%20scaled.png) -->
-
-### Hi there 👋
+![Pixel art of a desk](https://github.com/jorenvo/jorenvo/raw/master/desk.png)
 
 <!--
+![An image](https://github.com/jorenvo/jorenvo/raw/master/landscape%20scaled.png)
+### Hi there 👋
 Image should be at least 900px wide (max on a 4k monitor)
 
 **jorenvo/jorenvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
