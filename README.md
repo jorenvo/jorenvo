@@ -11,6 +11,7 @@ Personal projects I'm proud of:
 - 🌊 [frequency-wave](https://www.youtube.com/watch?v=RLD4nn0uEDI): visualizes music using a 3D surface spectogram
 - 🎶 [simple-mpc](https://github.com/jorenvo/simple-mpc): Emacs modes to control [MPC](https://www.musicpd.org/clients/mpc/) that are used by many people
 - ⏱️ [timer](https://www.jvo.sh/timer/): a digital implementation of a Time Timer © with an intuitive UI
+- 🖥️ [lc-3-vm](https://github.com/jorenvo/lc-3-vm): a [Little Computer 3](https://en.wikipedia.org/wiki/Little_Computer_3) VM
 
 <!--
 ![An image](https://github.com/jorenvo/jorenvo/raw/master/landscape%20scaled.png)
