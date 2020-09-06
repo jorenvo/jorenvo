@@ -12,6 +12,7 @@ Personal projects I'm proud of:
 - 🎶 [simple-mpc](https://github.com/jorenvo/simple-mpc): Emacs modes to control [MPC](https://www.musicpd.org/clients/mpc/) that are used by many people
 - ⏱️ [timer](https://www.jvo.sh/timer/): a digital implementation of a Time Timer © with an intuitive UI
 - 🖥️ [lc-3-vm](https://github.com/jorenvo/lc-3-vm): a [Little Computer 3](https://en.wikipedia.org/wiki/Little_Computer_3) VM
+- 🔑 [auth-u2f](https://github.com/jorenvo/auth_u2f): a U2F implementation for Odoo that supports 2nd factor auth with Yubikeys
 
 <!--
 ![An image](https://github.com/jorenvo/jorenvo/raw/master/landscape%20scaled.png)
