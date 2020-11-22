@@ -14,6 +14,7 @@ These are some personal projects I'm proud of:
 - 🖥️ [lc-3-vm](https://github.com/jorenvo/lc-3-vm): a [Little Computer 3](https://en.wikipedia.org/wiki/Little_Computer_3) VM
 - 🔑 [auth-u2f](https://github.com/jorenvo/auth_u2f): a U2F implementation for Odoo that supports 2nd factor auth with Yubikeys
 - 🔍 [visual-maze](https://jorenvo.github.io/visual-maze/): a solver that visualizes various algorithms and does generic path finding
+- 🐀 [ratspoon](https://github.com/jorenvo/ratspoon): a minimal [Ratpoison](https://www.nongnu.org/ratpoison/) implementation for [Hammerspoon](https://www.hammerspoon.org)
 
 I occasionally program live [on Twitch](https://www.twitch.tv/jordan_vo), come say hello!
 <!--
