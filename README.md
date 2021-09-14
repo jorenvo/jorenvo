@@ -2,7 +2,6 @@
 
 Currently having fun with:
 - 🕹️ [gb-emu](https://github.com/jorenvo/gb-emu): a Game Boy emulator in TypeScript
-- 📹 [rrweb](https://github.com/jorenvo/rrweb): an Odoo module that records actions leading to a crash
 
 These are some personal projects I'm proud of:
 - 🖼️ [generative-art](https://www.jvo.sh/generative-art/): various pieces of interactive and random generative art
@@ -17,6 +16,7 @@ These are some personal projects I'm proud of:
 - 🐀 [ratspoon](https://github.com/jorenvo/ratspoon): a minimal [Ratpoison](https://www.nongnu.org/ratpoison/) implementation for [Hammerspoon](https://www.hammerspoon.org)
 - 📋 [jpaste](https://github.com/jorenvo/jpaste): a paste service similar to [sprunge](http://sprunge.us) in async Rust using Redis
 - 🌆 [photos](https://www.jvo.sh/photos/): a web application that lays out photos the same way [Flickr](https://www.flickr.com/photos/megane_wakui) does
+- 📹 [crash-recorder](https://github.com/jorenvo/crash-recorder): an Odoo module that records actions leading to a crash
 
 I occasionally program live [on Twitch](https://www.twitch.tv/jordan_vo), come say hello!
 <!--
