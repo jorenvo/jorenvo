@@ -1,4 +1,4 @@
-![Pixel art of a desk](https://github.com/jorenvo/jorenvo/raw/master/desk.png)
+![A blue-ish photo of the bay with some buildings in the background](https://github.com/jorenvo/jorenvo/raw/master/_MGL1133-2.jpg)
 
 Currently having fun with:
 - 🕹️ [gb-emu](https://github.com/jorenvo/gb-emu): a Game Boy emulator in TypeScript
