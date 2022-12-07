@@ -6,7 +6,7 @@ Currently having fun with:
 These are some personal projects I'm proud of:
 - 🖼️ [generative-art](https://www.jvo.sh/generative-art/): various pieces of interactive and random generative art
 - 🔧 [jvo-asm](https://github.com/jorenvo/jvo-asm): an x86 assembler from scratch using emojis in its syntax for fun
-- ✂️ [emogen](https://www.jvo.sh/r/): a link shortener that shortens links using emojis: https://jvo.sh/r/🐰🦊🐴
+- ✂️ [emogen](https://github.com/jorenvo/emogen): a link shortener that shortens links using emojis: https://example.com/r/🐰🦊🐴
 - 🌊 [frequency-wave](https://www.youtube.com/watch?v=RLD4nn0uEDI): visualizes music using a 3D surface spectogram
 - 🎶 [simple-mpc](https://github.com/jorenvo/simple-mpc): Emacs modes to control [MPC](https://www.musicpd.org/clients/mpc/)
 - ⏱️ [timer](https://www.jvo.sh/timer/): a digital implementation of a Time Timer © with an intuitive UI
