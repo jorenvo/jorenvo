@@ -1,4 +1,4 @@
-![A blue-ish photo of the bay with some buildings in the background](https://github.com/jorenvo/jorenvo/raw/master/_MGL1133-2.jpg)
+![A foggy photo of the I-280/US 101 intersection](https://github.com/jorenvo/jorenvo/assets/10252581/9502174e-0d29-4445-a61a-c685cc42becd)
 
 Currently having fun with:
 - 🕹️ [gb-emu](https://github.com/jorenvo/gb-emu): a Game Boy emulator in TypeScript
