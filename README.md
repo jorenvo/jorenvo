@@ -1,4 +1,4 @@
-![A foggy photo of the I-280/US 101 intersection](https://github.com/jorenvo/jorenvo/assets/10252581/9502174e-0d29-4445-a61a-c685cc42becd)
+![A golden colored photo with 4 layers: Laurel Heights, Presidio Heights, Golden Gate Bridge and the hills beyond Golden Gate](https://github.com/jorenvo/jorenvo/assets/10252581/deb553e3-271d-4cc8-bb8a-0877c2255c5b)
 
 Currently having fun with:
 - 🕹️ [gb-emu](https://github.com/jorenvo/gb-emu): a Game Boy emulator in TypeScript
