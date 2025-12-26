@@ -16,7 +16,7 @@ These are some personal projects I'm proud of:
 - 🐀 [ratspoon](https://github.com/jorenvo/ratspoon): a minimal [Ratpoison](https://www.nongnu.org/ratpoison/) implementation for [Hammerspoon](https://www.hammerspoon.org)
 - ➿ [recaman](https://jorenvo.github.io/recaman): renders SVGs that visualize [Recamán's sequence](https://oeis.org/A005132)
 - 📋 [jpaste](https://github.com/jorenvo/jpaste): a paste service similar to [sprunge](http://sprunge.us) in async Rust using Redis
-- 🌆 [photos](https://www.jvo.sh/photos/): a web application that lays out photos the same way [Flickr](https://www.flickr.com/photos/megane_wakui) does
+- 🌆 [photos-ng](https://jvo-photos.online): a web application that lays out photos the same way [Flickr](https://www.flickr.com/photos/megane_wakui) does
 - 📹 [crash-recorder](https://github.com/jorenvo/crash-recorder): an Odoo module that records actions leading to a crash
 
 I occasionally program live [on Twitch](https://www.twitch.tv/jordan_vo), come say hello!
