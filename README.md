@@ -4,7 +4,7 @@ Currently having fun with:
 - 🕹️ [gb-emu](https://github.com/jorenvo/gb-emu): a Game Boy emulator in TypeScript
 
 These are some personal projects I'm proud of:
-- 🖼️ [generative-art](https://www.jvo.sh/generative-art/): various pieces of interactive and random generative art
+- 🖼️ [generative-art](https://jorenvo.github.io/generative-art): various pieces of interactive and random generative art
 - 🔧 [jvo-asm](https://github.com/jorenvo/jvo-asm): an x86 assembler from scratch using emojis in its syntax for fun
 - ✂️ [emogen](https://github.com/jorenvo/emogen): a link shortener that shortens links using emojis: https://example.com/r/🐰🦊🐴
 - 🌊 [frequency-wave](https://www.youtube.com/watch?v=RLD4nn0uEDI): visualizes music using a 3D surface spectogram
