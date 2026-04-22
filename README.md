@@ -9,7 +9,7 @@ These are some personal projects I'm proud of:
 - ✂️ [emogen](https://github.com/jorenvo/emogen): a link shortener that shortens links using emojis: https://example.com/r/🐰🦊🐴
 - 🌊 [frequency-wave](https://www.youtube.com/watch?v=RLD4nn0uEDI): visualizes music using a 3D surface spectogram
 - 🎶 [simple-mpc](https://github.com/jorenvo/simple-mpc): Emacs modes to control [MPC](https://www.musicpd.org/clients/mpc/)
-- ⏱️ [timer](https://www.jvo.sh/timer/): a digital implementation of a Time Timer © with an intuitive UI
+- ⏱️ [timer](https://jorenvo.github.io/timer/): a digital implementation of a Time Timer © with an intuitive UI
 - 🖥️ [lc-3-vm](https://github.com/jorenvo/lc-3-vm): a [Little Computer 3](https://en.wikipedia.org/wiki/Little_Computer_3) VM
 - 🔑 [auth-u2f](https://github.com/jorenvo/auth_u2f): a U2F implementation for Odoo that supports 2nd factor auth with Yubikeys
 - 🔍 [visual-maze](https://jorenvo.github.io/visual-maze/): a solver that visualizes various algorithms and does generic path finding
